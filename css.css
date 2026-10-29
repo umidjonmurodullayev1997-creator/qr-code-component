@@ -14,9 +14,10 @@
 }
 .card {
   width: 320px;
+  height: 499px;
   padding: 16px 16px 40px 16px;
   background-color: hsl(0, 0%, 100%);
-  border-radius: 5px;
+  border-radius: 20px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -24,15 +25,17 @@
 }
 .card-img {
   width: 288px;
+  height: 288px;
   display: flex;
 }
 .card-img img {
   width: 100%;
   overflow: hidden;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 .card-content {
   width: 288px;
+  height: 131px;
   padding-top: 24px;
   text-align: center;
 }
@@ -49,6 +52,7 @@
   line-height: 1.4;
   font-weight: 400;
   font-family: "Outfit", sans-serif;
+  color: hsl(216, 15%, 48%);
   padding: 16px;
 }
 @media only screen and (max-width: 375px) {
