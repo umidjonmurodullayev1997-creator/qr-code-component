@@ -5,13 +5,12 @@
 }
 .container {
   max-width: 1440px;
-  min-width: 100vh;
+  min-height: 100vh;
   margin: 0 auto;
   background-color: hsl(212, 45%, 89%); /*Slate 300*/
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-bottom: 20px;
 }
 .card {
   width: 320px;
