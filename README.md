@@ -42,3 +42,9 @@ Kelgusi loyihalarda murakkabroq CSS Grid maketlari bilan ishlash, mobil moslashu
 
 - Ism: Umidjon Murodullayev
 - GitHub - [@umidjonmurodullayev1997-creator](https://github.com/umidjonmurodullayev1997-creator)
+
+## Overview / Umumiy ko'rinish
+
+### Skrinshot
+
+![Loyiha skrinshoti](./images/screenshot.png)

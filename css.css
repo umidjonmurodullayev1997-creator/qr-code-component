@@ -3,14 +3,15 @@
   padding: 0;
   box-sizing: border-box;
 }
-.contaier {
-  width: 1440px;
-  height: 960px;
+.container {
+  max-width: 1440px;
+  min-width: 100vh;
   margin: 0 auto;
   background-color: hsl(212, 45%, 89%); /*Slate 300*/
   display: flex;
   justify-content: center;
   align-items: center;
+  padding-bottom: 20px;
 }
 .card {
   width: 320px;
